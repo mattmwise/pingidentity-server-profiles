@@ -5,8 +5,8 @@ objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
 sn: Brooke
-cn: Raeann Brooke
-givenName: Raeann
+cn: Raeann Matt
+givenName: Wise
 uid: user.0
 mail: user.0@example.com
 userPassword: 2FederateM0re
