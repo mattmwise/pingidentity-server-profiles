@@ -4,8 +4,8 @@ objectClass: person
 objectClass: organizationalPerson
 objectClass: inetOrgPerson
 objectClass: pf-connected-identities
-sn: Brooke
-cn: Raeann Matt
+sn: Matt
+cn: Matt Wise
 givenName: Wise
 uid: user.0
 mail: user.0@example.com
